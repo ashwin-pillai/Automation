@@ -15,7 +15,7 @@ from IPython.core.interactiveshell import InteractiveShell
 InteractiveShell.ast_node_interactivity = 'all'
 from IPython.core.display import display
 
-directory = r'A:\Assay Development Team\Automation\BLI\JupyterNotebookAnalysis\Milestone_Independent' #Define Assay Load Files + Load
+directory = r'A:\BLI\JupyterNotebookAnalysis\Milestone_Independent' #Define Assay Load Files + Load
 
 export_filename = 'Milestone' # Enter Project Name
 
